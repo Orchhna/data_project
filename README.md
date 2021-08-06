@@ -11,3 +11,5 @@ Popular Ramen:
 - Comparison to China, UK, Italy
 - Box Plot varieties
 - A comparison between 2019-2020, have the demand risen due to covid-19
+
+1. WordCloud of Ramen Flavour
